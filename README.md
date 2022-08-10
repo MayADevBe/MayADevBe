@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me: 
 
-[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]([website])
+[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mayadevbe.me/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />]([twitter])
 
 
