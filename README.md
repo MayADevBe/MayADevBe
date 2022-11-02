@@ -2,9 +2,9 @@
 
 ## I'm a computer science student
 - 🔭 I’m currently working on my Master
-- 🌱 I’m currently learning as much as I can
+- 🌱 I’m learning as much as I can
 - 👯 I’m looking to collaborate on learning more about Cyber Security
-- ⚡ Fun fact: I like drawing, photography. I speak English, German and Spanish
+- ⚡ Fun fact: I like drawing, photography, poetry. I speak English, German and Spanish
 
 
 ### 📫 How to reach me: 
