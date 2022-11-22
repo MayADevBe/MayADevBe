@@ -9,8 +9,8 @@
 
 ### 📫 How to reach me: 
 
-[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mayadevbe.me/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/MayADevBe)
+[![Website Badge](https://img.shields.io/badge/-Blog-yellowgreen?style=flat-square&logo=Website&logoColor=white&link=https://mayadevbe.me/)](https://mayadevbe.me/)
+[![Twitter Badge](https://img.shields.io/badge/-mayadevbe-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MayADevBe)](https://twitter.com/MayADevBe)
 
 
 ### Languages and Tools:
