@@ -1,10 +1,10 @@
 ### Hi there, I'm MayADevBe 👋
 
 ## I'm a computer science student
-- 🔭 I’m currently working on my Master
+- 🔭 PHD student in Cyber Deception
 - 🌱 I’m learning as much as I can
 - 👯 I’m looking to collaborate on learning more about Cyber Security
-- ⚡ Fun facts: I like drawing, photography, poetry. I speak English, German and Spanish
+- ⚡ Fun facts: I like photography, poetry and language learning. I speak English, German and Spanish
 
 
 ### 📫 How to reach me: 
